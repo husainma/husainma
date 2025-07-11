@@ -1,4 +1,4 @@
-<img src="./line-neon.gif" alt="neon-light" style="width: 100%; display: block; margin: 0 auto;" />
+<img src="./line-neon.gif" alt="neon-light" style="width:100%; max-width: 100%; display: block; margin: 0 auto;" />
 
 # 💫 About Me:
 I'm a sophomore majoring in Computer Science and Information Security, currently expanding my knowledge in AI and Machine Learning. I recently gained hands-on experience developing an AI-powered media analysis application for object detection in nuclear facility security systems during my internship at Brookhaven National Laboratory. My goal is to continue learning and growing in the field of AI/ML, building impactful tools that blend intelligence with real-world applications.<br><br>
@@ -24,4 +24,4 @@ I'm a sophomore majoring in Computer Science and Information Security, currently
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=husainma&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<img src="./line-neon.gif" alt="neon-light" style="width: 100%; display: block; margin: 0 auto;" />
+<img src="./line-neon.gif" alt="neon-light" style="width:100%; max-width: 100%; display: block; margin: 0 auto;" />
