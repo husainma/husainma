@@ -1,6 +1,6 @@
 <img src="./line-neon.gif" alt="neon-light" style="width:100%; max-width: 100%; display: block; margin: 0 auto;" />
 
-# 👋 Hi there, I'm Abdullah Husain:
+# 👋 Hi there, I'm Abdullah Husain
 I'm a sophomore majoring in Computer Science and Information Security, currently expanding my knowledge in AI and Machine Learning. I recently gained hands-on experience developing an AI-powered media analysis application for object detection in nuclear facility security systems during my internship at Brookhaven National Laboratory. My goal is to continue learning and growing in the field of AI/ML, building impactful tools that blend intelligence with real-world applications.<br><br>
 
 ![](https://github-profile-trophy.vercel.app/?username=husainma&theme=radical&no-frame=false&no-bg=false&margin-w=4)
