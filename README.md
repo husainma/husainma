@@ -1,3 +1,4 @@
+![Alt text](line-neon.gif)
 # 💫 About Me:
 I'm a sophomore majoring in Computer Science and Information Security, currently expanding my knowledge in AI and Machine Learning. I recently gained hands-on experience developing an AI-powered media analysis application for object detection in nuclear facility security systems during my internship at Brookhaven National Laboratory. My goal is to continue learning and growing in the field of AI/ML, building impactful tools that blend intelligence with real-world applications.
 
@@ -18,4 +19,4 @@ I'm a sophomore majoring in Computer Science and Information Security, currently
 ---
 [![](https://visitcount.itsvg.in/api?id=husainma&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Alt text](line-neon.gif)
